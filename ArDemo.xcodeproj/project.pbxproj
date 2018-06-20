@@ -16,6 +16,7 @@
 		5E1CAE4020D9D397002FFA24 /* ArDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1CAE3F20D9D397002FFA24 /* ArDemoTests.swift */; };
 		5E1CAE4B20D9D397002FFA24 /* ArDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1CAE4A20D9D397002FFA24 /* ArDemoUITests.swift */; };
 		5E1CAE5920D9D3E4002FFA24 /* House.scn in Resources */ = {isa = PBXBuildFile; fileRef = 5E1CAE5820D9D3E4002FFA24 /* House.scn */; };
+		5E1CAE5B20D9FB63002FFA24 /* House1.scn in Resources */ = {isa = PBXBuildFile; fileRef = 5E1CAE5A20D9FB63002FFA24 /* House1.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		5E1CAE4A20D9D397002FFA24 /* ArDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArDemoUITests.swift; sourceTree = "<group>"; };
 		5E1CAE4C20D9D397002FFA24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5E1CAE5820D9D3E4002FFA24 /* House.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = House.scn; sourceTree = "<group>"; };
+		5E1CAE5A20D9FB63002FFA24 /* House1.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = House1.scn; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				5E1CAE3320D9D396002FFA24 /* LaunchScreen.storyboard */,
 				5E1CAE3620D9D396002FFA24 /* Info.plist */,
 				5E1CAE5820D9D3E4002FFA24 /* House.scn */,
+				5E1CAE5A20D9FB63002FFA24 /* House1.scn */,
 			);
 			path = ArDemo;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				5E1CAE3520D9D396002FFA24 /* LaunchScreen.storyboard in Resources */,
 				5E1CAE3220D9D396002FFA24 /* Assets.xcassets in Resources */,
 				5E1CAE3020D9D396002FFA24 /* Main.storyboard in Resources */,
+				5E1CAE5B20D9FB63002FFA24 /* House1.scn in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
